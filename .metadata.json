@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rUM",
+    "oncran": true
+  },
+  {
+    "package": "tidyREDCap",
+    "oncran": true
+  }
+]
