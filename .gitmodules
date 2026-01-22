@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Open.Visualization.Academy"]
+	path = Open.Visualization.Academy
+	url = https://github.com/raymondbalise/open.visualization.academy
 [submodule "rUM"]
 	path = rUM
 	url = https://github.com/raymondbalise/rum
